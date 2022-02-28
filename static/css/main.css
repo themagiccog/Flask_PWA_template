@@ -1,0 +1,16 @@
+/* .class {} - used for html "class"
+
+#id {} - used for html "id"
+
+element {} - used for html "element" eg. <p>, <h1>, etc
+
+element.class {} - used to target element.class */
+
+html {
+  font-family: OpenSans, sans-serif;
+  color: #030303;
+}
+
+body {
+  background: #f0c63d;
+}
